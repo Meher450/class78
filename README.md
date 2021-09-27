@@ -1,5 +1,6 @@
 # View it on Snack -- https://snack.expo.dev/@meher450/pro-c-78
 Student Activity --- https://github.com/pro-whitehatjr/C78_ISSTracker_StudentActivity.git
+# Note: Run this code only on Android don't use Web
 
 # Sample Snack app
 
